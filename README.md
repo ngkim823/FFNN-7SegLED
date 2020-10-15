@@ -9,6 +9,8 @@ Also, a feed-forward loop is added (equivalently, setting a special initial cond
 All the basic codes are highly leveraged from the Numpy/MXNet from "Dive into Deep Learning" but some clumsy codes are added by the author as well.
 You are very welcome to contribute to this project to refine the codes and to add more ideas on the feed-forward loop.
 
+Codes and related files will be uploaded soon.
+
 Thanks...
 
 Nicholas Kim
